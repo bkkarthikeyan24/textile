@@ -8,8 +8,8 @@ export function generateStaticParams() {
   return Object.keys(categoryProducts).map((category) => ({ category }));
 }
 
-export default function CategoryPage({ params }) {
-  const { category } = params;
+export default async function CategoryPage({ params }) {
+  const { category } = await params;
   const data = categoryProducts[category];
 
   if (!data) {
