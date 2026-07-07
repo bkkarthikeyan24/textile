@@ -14,10 +14,11 @@ export default function DatabasePreview() {
   useEffect(() => {
     async function loadDatabase() {
       try {
+        const apiUrl = process.env.NEXT_PUBLIC_API_URL || "http://localhost:3001";
         const [productsResponse, usersResponse, ordersResponse] = await Promise.all([
-          fetch("http://localhost:3001/products"),
-          fetch("http://localhost:3001/users"),
-          fetch("http://localhost:3001/orders")
+          fetch(`${apiUrl}/products`),
+          fetch(`${apiUrl}/users`),
+          fetch(`${apiUrl}/orders`)
         ]);
 
         if (!productsResponse.ok || !usersResponse.ok || !ordersResponse.ok) {
