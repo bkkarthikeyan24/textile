@@ -1,0 +1,238 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "men",
+      "name": "Formal Shirt",
+      "price": 799,
+      "size": "L",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Dress_Shirt_%283161023616%29.jpg?v=2"
+    },
+    {
+      "id": 2,
+      "category": "men",
+      "name": "Blue Jeans",
+      "price": 799,
+      "size": "L",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Denimjeans2.JPG"
+    },
+    {
+      "id": 3,
+      "category": "men",
+      "name": "Cotton T-Shirt",
+      "price": 699,
+      "size": "M",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/T-shirt2.jpg?v=2"
+    },
+    {
+      "id": 4,
+      "category": "men",
+      "name": "Casual Hoodie",
+      "price": 799,
+      "size": "XL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Hoodie_man.jpg?v=2"
+    },
+    {
+      "id": 5,
+      "category": "men",
+      "name": "Veshti Set",
+      "price": 799,
+      "size": "L",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Yellow_cotton_Veshti_%26_shawl_-_India_21._Century_2023-04-13.jpg"
+    },
+    {
+      "id": 6,
+      "category": "men",
+      "name": "Checked Shirt",
+      "price": 799,
+      "size": "M",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Plaid_IZOD_men%27s_shirt.jpg"
+    },
+    {
+      "id": 7,
+      "category": "men",
+      "name": "Blue Kurta Shirt",
+      "price": 799,
+      "size": "XL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Sky_Blue_Kurta_%281%29.jpg"
+    },
+    {
+      "id": 8,
+      "category": "men",
+      "name": "Wedding Sherwani",
+      "price": 1099,
+      "size": "XXL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Groom%27s_outfit.jpg"
+    },
+    {
+      "id": 9,
+      "category": "men",
+      "name": "Casual Round Neck T-Shirt",
+      "price": 799,
+      "size": "L",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/T_Shirt.jpg"
+    },
+    {
+      "id": 10,
+      "category": "women",
+      "name": "Classic Silk Saree",
+      "price": 3499,
+      "size": "M",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Mysore_Silk_Saree.jpg"
+    },
+    {
+      "id": 11,
+      "category": "women",
+      "name": "Festival Silk Saree",
+      "price": 2199,
+      "size": "L",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Silk_saree.jpg"
+    },
+    {
+      "id": 12,
+      "category": "women",
+      "name": "Koorai Silk Saree",
+      "price": 1499,
+      "size": "XL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Koorai_silk_saree_5.jpg"
+    },
+    {
+      "id": 13,
+      "category": "women",
+      "name": "Cream Border Saree",
+      "price": 1399,
+      "size": "L",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Koorai_silk_saree_4.jpg"
+    },
+    {
+      "id": 14,
+      "category": "women",
+      "name": "Green Kurti",
+      "price": 599,
+      "size": "M",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Ladies_kurta_green.jpg"
+    },
+    {
+      "id": 15,
+      "category": "women",
+      "name": "White Kurti",
+      "price": 579,
+      "size": "M",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Ladies_kurta_white.jpg"
+    },
+    {
+      "id": 16,
+      "category": "women",
+      "name": "Kurti with Leggings",
+      "price": 599,
+      "size": "L",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ladies_kurta_with_leggings.jpg"
+    },
+    {
+      "id": 17,
+      "category": "women",
+      "name": "Blue Lehanga",
+      "price": 4599,
+      "size": "XL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Ethnic_wear_for_women_Blue_Lehenga.png"
+    },
+    {
+      "id": 18,
+      "category": "women",
+      "name": "Wedding Silk Saree",
+      "price": 2699,
+      "size": "XL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Wedding_saree_%284120283%29.jpg"
+    },
+    {
+      "id": 19,
+      "category": "kids",
+      "name": "White Party Baby Dress",
+      "price": 999,
+      "size": "M",
+      "image": "https://images.unsplash.com/photo-1660757507949-f8cf985b8246?auto=format&fit=crop&fm=jpg&q=60&w=3000"
+    },
+    {
+      "id": 20,
+      "category": "kids",
+      "name": "Pink Baby Dress",
+      "price": 1099,
+      "size": "M",
+      "image": "https://images.unsplash.com/photo-1656337868666-e040b8d3f2a2?fm=jpg&q=60&w=3000"
+    },
+    {
+      "id": 21,
+      "category": "kids",
+      "name": "Cute Baby Frock",
+      "price": 899,
+      "size": "M",
+      "image": "https://images.unsplash.com/photo-1653835785932-1710eac6385d?auto=format&fit=crop&fm=jpg&q=60&w=3000"
+    },
+    {
+      "id": 22,
+      "category": "kids",
+      "name": "Balloon Baby Dress",
+      "price": 1199,
+      "size": "L",
+      "image": "https://images.unsplash.com/photo-1719160233557-226f017fbfd7?auto=format&fit=crop&fm=jpg&q=60&w=3000"
+    },
+    {
+      "id": 23,
+      "category": "kids",
+      "name": "Baby Casual Outfit",
+      "price": 1299,
+      "size": "M",
+      "image": "https://images.unsplash.com/photo-1551463855-8695fbe95094?auto=format&fit=crop&fm=jpg&q=60&w=3000"
+    },
+    {
+      "id": 24,
+      "category": "kids",
+      "name": "Baby Boy Dress Set",
+      "price": 799,
+      "size": "M",
+      "image": "https://images.unsplash.com/photo-1764922074767-a27ee324380e?auto=format&fit=crop&fm=jpg&q=60&w=3000"
+    },
+    {
+      "id": 25,
+      "category": "kids",
+      "name": "Little Princess Dress",
+      "price": 1399,
+      "size": "L",
+      "image": "https://images.unsplash.com/photo-1762322000682-1be016b394a9?auto=format&fit=crop&fm=jpg&q=60&w=3000"
+    },
+    {
+      "id": 26,
+      "category": "kids",
+      "name": "Soft Baby Party Dress",
+      "price": 949,
+      "size": "M",
+      "image": "https://images.unsplash.com/photo-1768657890500-ed3a8f808d9d?auto=format&fit=crop&fm=jpg&q=60&w=3000"
+    },
+    {
+      "id": 27,
+      "category": "kids",
+      "name": "Baby Festive Wear",
+      "price": 1249,
+      "size": "L",
+      "image": "https://images.unsplash.com/photo-1658253183752-97ae4af6fa3b?auto=format&fit=crop&fm=jpg&q=60&w=3000"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Demo User",
+      "email": "demo@example.com",
+      "mobile": "9876543210",
+      "address": "Chennai"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "userId": 1,
+      "paymentMethod": "UPI",
+      "paymentStatus": "Paid",
+      "totalAmount": 2398
+    }
+  ]
+}
